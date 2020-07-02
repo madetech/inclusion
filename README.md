@@ -17,7 +17,6 @@ First things first, ground rules! These are especially important for our meeting
 - Let’s focus on Actions and Outcomes and share those where possible.
 - Be curious! Use open questions.
 
-
 ## Who are we?
 
 Anyone can join the Working Group. There's no initiation ceremony or pledge you need to take, just come along to the meeting and have fun! We're small right now, so it's pretty ad-hoc and disorganised, but as we grow, things will likely become more official, but we don't want to lose the charm of the group!
@@ -30,6 +29,7 @@ With that, here's a list of people who are part of the group and any roles they 
 - Chad Tomkiss
 - Yasemin Ercan - Head of People @ MT
 - Jess Nichols
+- Clare Sudbery
 
 ## What are we doing?
 
