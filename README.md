@@ -8,6 +8,16 @@ Not that Made Tech isn't a great place to work, but can we make it better, more 
 
 Spiel aside, it feels good, and it's something we all want to see happen!
 
+## Ground Rules
+
+First things first, ground rules! These are especially important for our meetings, but they should be adhered to at all times in the WG. :)
+
+- First and foremost, this is a safe space for discussion. Vegas rules apply, we want to be open and transparent with each other. Nothing gets shared without consent.
+- We represent all of Made Tech; let’s make it about everyone!
+- Let’s focus on Actions and Outcomes and share those where possible.
+- Be curious! Use open questions.
+
+
 ## Who are we?
 
 Anyone can join the Working Group. There's no initiation ceremony or pledge you need to take, just come along to the meeting and have fun! We're small right now, so it's pretty ad-hoc and disorganised, but as we grow, things will likely become more official, but we don't want to lose the charm of the group!
