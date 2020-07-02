@@ -27,7 +27,7 @@ Making Made Tech more diverse, of course!
 
 But you ask, how are you doing that? Well, here's a few things we have outlined, and we'll add more as we come up with them!
 
-- A Diversity Questionnaire to discover what our diversity is and where we should focus - on. We know there's a problem, but we don't precisely know the scale or direction of - the problem!
-- Reducing unconscious bias in hiring. This is something we are hoping to implement - soon! We have trialled it in the Made Tech Academy and it has worked pretty well, so - the hope is to bring it into the wider hiring process soon!
-- Making it all public! Open source is king, and we wanna espouse that here. This will - hopefully become a resource for people to use and contribute to. :)
+- A Diversity Questionnaire to discover what our diversity is and where we should focus on. We know there's a problem, but we don't precisely know the scale or direction of the problem!
+- Reducing unconscious bias in hiring. This is something we are hoping to implement soon! We have trialled it in the Made Tech Academy and it has worked pretty well, so the hope is to bring it into the wider hiring process soon!
+- Making it all public! Open source is king, and we wanna espouse that here. This will hopefully become a resource for people to use and contribute to. :)
 - Pay equality and transparency. This is an early days conversation that was floated at our last meeting. Really, we want to be more comfortable with disclosing our pay and making sure that pay is equal at all levels!
