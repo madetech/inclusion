@@ -3,7 +3,7 @@
 To edit `ipynb` files, you will need to do the following:
 
 ```shell
-pip3 install jupyter-lab pandas seaborn matplotlib # might turn this into a requirements.txt file if it gets longer
+pip3 install jupyterlab pandas seaborn matplotlib # might turn this into a requirements.txt file if it gets longer
 jupyter-lab
 ```
 
