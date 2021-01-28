@@ -1,0 +1,44 @@
+Question,Response,Count
+Age,18-24,8
+Age,25-34,51
+Age,35-44,27
+Age,45-54,8
+Age,All Others,6
+Caregiver Status,Not Specified,3
+Caregiver Status,No,90
+Caregiver Status,Yes,7
+Education,Advanced Degree,32
+Education,Associate Degree,6
+Education,Bachelor's Degree,49
+Education,High School,7
+Education,Not Specified,5
+Family Status,All Others,6
+Family Status,No children,70
+Family Status,Partnered Parent/Legal Guardian,24
+Gender Identity,All Others,5
+Gender Identity,Man,61
+Gender Identity,Woman,34
+Native Language,English,86
+Native Language,Not English,12
+Native Language,Not Specified,2
+Physical Abilities,Not Specified,4
+Physical Abilities,No disability,89
+Physical Abilities,Invisible disability,7
+Race,All Others,10
+Race,Asian,5
+Race,Mixed,5
+Race,White,80
+Sexual Orientation,All Others,6
+Sexual Orientation,Bisexual,14
+Sexual Orientation,Gay/Lesbian,5
+Sexual Orientation,Heterosexual,70
+Sexual Orientation,Not Specified,5
+Tenure,1-2 years,19
+Tenure,2-4 years,9
+Tenure,3-6 months,10
+Tenure,6-12 month,23
+Tenure,<3 months,29
+Tenure,All Others,5
+Tenure,Not Specified,5
+Transgender,All Others,5
+Transgender,No,95
